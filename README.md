@@ -1,5 +1,6 @@
 # hacktoberfest 2017
 Hello there people! This is a repo intended to help you make Pull Requests. 
+Hi y'all.
 
 # What do I do here?
 Easy! Fork the repo, and use GitHub traditional editor to add your profile to ``readme.md`` file in the format ``[USER_NAME_HERE](https://github.com/USER_NAME_NERE)``
