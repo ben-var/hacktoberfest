@@ -12,3 +12,4 @@ Select your new repo under ``head fork`` and leave ``base fork`` as it is. And y
 
 - [Christopher](https://github.com/christopherwmm)
 - [Mark l-b](https://github.com/marktm72)
+- [Alan](https://github.com/al2699)
